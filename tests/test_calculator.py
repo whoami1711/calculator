@@ -1,5 +1,3 @@
-# tests/test_calculator.py
-
 from src.calculator import Calculator
 
 def test_add():
